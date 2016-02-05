@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Fiction ?]]></title>
         <description><![CDATA[Fiction ?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://fictional.events/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 17:46:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 17:46:30 GMT</lastBuildDate>
+        <atom:link href="http://fictional.events/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[1 can't work for 2]]></title>
+            <description><![CDATA[<article><h1>1 can't work for 2</h1><p>What is your greatest weakness ?</p></article>]]></description>
+            <link>http://fictional.events/1-cant-work-for-2/index.html</link>
+            <guid isPermaLink="false">15261dc1-8349-49c4-bab7-e150691cb105</guid>
+            <pubDate>Fri, 05 Feb 2016 17:46:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Empty traps]]></title>
             <description><![CDATA[<article><h1>Empty traps</h1><p>The mousetraps were untouched.</p></article>]]></description>
-            <link>undefinedempty-traps/index.html</link>
+            <link>http://fictional.events/empty-traps/index.html</link>
             <guid isPermaLink="false">cb5c6db6-0750-4651-a449-89a794a231b5</guid>
             <pubDate>Fri, 05 Feb 2016 17:46:05 GMT</pubDate>
         </item>
