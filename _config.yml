@@ -2,12 +2,13 @@ name: Fictional Events
 favicon: null
 layout_spectrum: 0.5452559527475387
 typography_spectrum: 0.4532027211971581
+title: Fiction ?
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-68951222-1
   facebook: null
   twitter: null
 opengraph:
