@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T17:12:48.501Z'
-dateModified: '2016-02-05T17:12:36.521Z'
-title: What is your greatest weakness ?
+datePublished: '2016-02-05T17:14:44.396Z'
+dateModified: '2016-02-05T17:14:42.053Z'
+title: "1 can't work for 2"
 author: []
+sourcePath: _posts/2016-02-05-what-is-your-greatest-weakness.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-what-is-your-greatest-weakness.md
-published: true
 url: what-is-your-greatest-weakness/index.html
 _type: Article
 
