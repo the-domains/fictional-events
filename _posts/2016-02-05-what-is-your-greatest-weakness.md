@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T17:23:45.757Z'
-dateModified: '2016-02-05T17:23:43.699Z'
+datePublished: '2016-02-05T17:39:34.588Z'
+dateModified: '2016-02-05T17:39:32.423Z'
 title: "1 can't work for 2"
 author: []
 sourcePath: _posts/2016-02-05-what-is-your-greatest-weakness.md
