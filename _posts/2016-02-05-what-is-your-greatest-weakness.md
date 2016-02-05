@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T17:44:08.352Z'
-dateModified: '2016-02-05T17:44:06.881Z'
+datePublished: '2016-02-05T17:46:15.078Z'
+dateModified: '2016-02-05T17:46:13.062Z'
 title: "1 can't work for 2"
 author: []
 sourcePath: _posts/2016-02-05-what-is-your-greatest-weakness.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: 1-cant-work-for-2/index.html
+_type: Article
 
 ---
 What is your greatest weakness ?
