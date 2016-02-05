@@ -1,0 +1,28 @@
+name: Fictional Events
+favicon: null
+layout_spectrum: 0.5452559527475387
+typography_spectrum: 0.4532027211971581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4992744552437216
+  lightness: 0.24282743292860687
+  saturation: 0.06318663619458675
+  rhythmicContrast: 0.3984674895182252
+purpose: []
