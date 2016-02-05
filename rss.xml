@@ -4,7 +4,7 @@
         <description><![CDATA[Fiction ?]]></description>
         <link>http://fictional.events/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 17:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 17:23:34 GMT</lastBuildDate>
         <atom:link href="http://fictional.events/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[1 can't work for 2]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Empty traps]]></title>
-            <description><![CDATA[<article><h1>Empty traps</h1><p>The mousetraps were untouched. </p></article>]]></description>
+            <description><![CDATA[<h1>Empty traps</h1>]]></description>
             <link>http://fictional.events/cb5c6db6-0750-4651-a449-89a794a231b5/index.html</link>
             <guid isPermaLink="false">cb5c6db6-0750-4651-a449-89a794a231b5</guid>
-            <pubDate>Fri, 05 Feb 2016 17:14:00 GMT</pubDate>
+            <pubDate>Fri, 05 Feb 2016 17:23:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
