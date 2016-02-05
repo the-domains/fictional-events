@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Fiction ?]]></title>
         <description><![CDATA[Fiction ?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://fictional.events/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 17:03:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 17:13:01 GMT</lastBuildDate>
+        <atom:link href="http://fictional.events/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is your greatest weakness ?]]></title>
+            <description><![CDATA[<article><h1>What is your greatest weakness ?</h1><p>What is your greatest weakness ? </p></article>]]></description>
+            <link>http://fictional.events/what-is-your-greatest-weakness/index.html</link>
+            <guid isPermaLink="false">15261dc1-8349-49c4-bab7-e150691cb105</guid>
+            <pubDate>Fri, 05 Feb 2016 17:12:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The mousetraps were untouched. </p>]]></description>
-            <link>undefinedcb5c6db6-0750-4651-a449-89a794a231b5/index.html</link>
+            <link>http://fictional.events/cb5c6db6-0750-4651-a449-89a794a231b5/index.html</link>
             <guid isPermaLink="false">cb5c6db6-0750-4651-a449-89a794a231b5</guid>
             <pubDate>Fri, 05 Feb 2016 17:03:23 GMT</pubDate>
         </item>
